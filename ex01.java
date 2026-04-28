@@ -13,9 +13,9 @@ public class ex01 {
 	        String palavra = receba.nextLine();
 
 	
-	        System.out.println("Número de caracteres: " + palavra.length());
+	        System.out.println("Número de letras: " + palavra.length());
 
-	        System.out.println("String em maiúsculo: " + palavra.toUpperCase());
+	        System.out.println("Palavra em maiúsculo: " + palavra.toUpperCase());
 
 	        
 	        int numVogais = 0;
